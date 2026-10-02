@@ -9,18 +9,22 @@ this no resolution change in windowed mode:
 
 and this no resolution change in full screen mode:
 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5d62dac-925d-4a40-bb6e-081a4f5ec30c" />
 
 
 with this code:
 
+<img width="304" height="86" alt="image" src="https://github.com/user-attachments/assets/67bd2b13-5ed6-4454-98dc-05b54da5aa7f" />
 
 
 windowed mode:
 
+<img width="1027" height="606" alt="image" src="https://github.com/user-attachments/assets/d8076a79-f744-481b-bf1b-87b4223b9549" />
 
 
 full screen mode:
 
+<img width="1277" height="1024" alt="image" src="https://github.com/user-attachments/assets/274d8a1f-0e8c-41ea-a11f-1c3658476d6c" />
 
 
 full code:
