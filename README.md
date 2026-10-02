@@ -4,6 +4,7 @@ for example you can use `get_tree().root.set_size(OS.window_size * 0.5)` this wi
 
 this no resolution change in windowed mode:
 
+<img width="1024" height="602" alt="image" src="https://github.com/user-attachments/assets/f99ea356-e0ea-48a9-8ee1-d0ebf4d05983" />
 
 
 and this no resolution change in full screen mode:
