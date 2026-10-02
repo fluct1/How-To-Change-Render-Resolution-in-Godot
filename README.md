@@ -30,7 +30,6 @@ full screen mode:
 full code:
 
 `
-
 extends Spatial
 
 var enable: bool = false
@@ -63,7 +62,6 @@ if event.is_action_pressed("ui_page_up"):
 
 func _process(delta):
 	print(Performance.get_monitor(Performance.TIME_FPS))
-
 `
 
 with this code you can press ‘Home button’ to change resolution between half and normal and press ‘Page Up button’ to change between full screen and windowed.
