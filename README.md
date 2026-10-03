@@ -1,6 +1,6 @@
 # This on Godot 3.6.2 (Godot 3.5)
 
-i think i know how to do this. to change the `Resolution Render` not just window size to **work in windowed and full screen mode** and affect on the **performance** and **fps**:
+to change the `Resolution Render` not just window size to **work in windowed and full screen mode** and affect on the **performance** and **fps**:
 
 for example you can use `get_tree().root.set_size(OS.window_size * 0.5)` this will change the resolution render the screen more pixelated and more performance and you can change the value between `0.1-1.0`.
 
