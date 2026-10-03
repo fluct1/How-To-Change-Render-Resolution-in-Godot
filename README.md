@@ -56,7 +56,7 @@ func _unhandled_input(event):
 	else:
 		print("disabled")
 		root.set_size(window_size)
-	get_tree().set_screen_stretch(SceneTree.STRETCH_MODE_VIEWPORT, SceneTree.STRETCH_ASPECT_KEEP, root.size)
+	get_tree().set_screen_stretch(SceneTree.STRETCH_MODE_VIEWPORT, SceneTree.STRETCH_ASPECT_EXPAND, root.size)
 
 if event.is_action_pressed("ui_page_up"):
 	enable_f = !enable_f
