@@ -2,7 +2,7 @@
 
 to change the `Resolution Render` not just window size to **work in windowed and full screen mode** and affect on the **performance** and **fps**:
 
-for example you can use `get_tree().root.set_size(OS.window_size * 0.5)` this will change the resolution render the screen more pixelated and more performance and you can change the value between `0.1-1.0`.
+for example you can use `get_tree().root.set_size(OS.window_size * 0.5)` this will change the resolution render the screen more pixelated and more performance and you can change the value any float number.
 
 **no resolution change** in windowed mode:
 
